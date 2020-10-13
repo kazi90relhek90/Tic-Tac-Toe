@@ -1,0 +1,93 @@
+#Container div {
+  width: 48px;
+  margin: auto;
+  height: 48px;
+  border: 1px solid black;
+  float: left ;
+}
+
+h1 {
+  width: 1000px;
+  margin: auto
+}
+
+ul{
+  width : 400px;
+  margin: auto;
+}
+
+h3{
+  width:500px
+}
+
+html {
+
+  background-color: navy;
+  color: cyan;
+}
+
+.div1 {
+  width : 200px;
+  margin: auto;
+}
+
+.UnActiveBTN{
+ color: white;
+ background-color: black;
+}
+
+.activeBTN{
+ color: black; 
+ background-color: white;
+}
+
+img {
+ width: 150px;
+ height: 150px;
+ }
+
+p {
+ width: 3;
+ margin: auto
+}
+
+.centered div{
+ width : 300px;
+ background-color: blue;
+}
+div {
+ width: 150px;
+ height: 150px;
+}
+
+button {
+ background-color: fuchsia;
+ padding: 1px;
+}
+
+.blank {
+  width: 50px;
+  height: 50px;
+}
+
+.x {    
+ width : 50px;
+ height: 50px
+}
+
+.o {
+ width : 50px;
+ height: 50px 
+}
+
+body { 
+ width: 500px;
+}
+
+#frozenGrid {
+  width: 48px;
+  margin: auto;
+  height: 48px;
+  border: 1px solid black;
+  float: left ;
+}
